@@ -82,3 +82,14 @@ a {
   line-height: 2.5;
   margin: 0 89px;
 }
+
+footer{
+  margin-bottom: 30px;
+}
+
+button{
+  background-color: #41f341;
+  padding: 2px 20px;
+  border: 1px solid transparent;
+  border-radius: 3px;
+}
